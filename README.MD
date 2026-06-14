@@ -13,4 +13,11 @@ I recently discovered the YouTube channel called ExtinctZoo where the creator de
 ## How to run
 In order to run my python code, download all files and run from the main file. I provided a prepared JSON file that skips the need to utilize the API's to retrieve the video ID's and the transcripts. 
 
-## Contents
+## Key Objective and Results
+I was able to successfully process the data and create an ordered playlist using elementary NLP. I created the playlist using YouTube's API, and the code will be saved for future projects that have overlap with this type of processing and work on YouTube.
+
+## Repository Contents
+├── prepared data/
+├── scripts/
+├── main/
+└── README.md
